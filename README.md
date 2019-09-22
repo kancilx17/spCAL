@@ -11,6 +11,8 @@ git clone https://github.com/Maoundis/spCAL.git
 
 cd spCAL
 
-python2 
+python2 spamCall.py
+
+```
 
 ![intitle](https://github.com/Maoundis/spCAL/blob/master/Screenshot_20190922-152721.jpg)
